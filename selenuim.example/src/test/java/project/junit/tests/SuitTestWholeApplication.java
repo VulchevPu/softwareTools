@@ -11,6 +11,6 @@ import org.junit.runners.Suite;
 @Suite.SuiteClasses({ 
 	   TestUserMethods.class ,TestForumMethods.class
 	})
-public class SuitTestWholeApplication {
-	//test
+public class SuitTestWholeApplicatio {
+	
 }
