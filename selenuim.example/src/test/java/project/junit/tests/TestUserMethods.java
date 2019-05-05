@@ -30,6 +30,7 @@ import example.junit.project.entities.User;
  */
 public class TestUserMethods {
 
+	//comment
 	public static UserOperations operations;
 	private Logger myLogger = Logger.getLogger(getClass().getName());
 
