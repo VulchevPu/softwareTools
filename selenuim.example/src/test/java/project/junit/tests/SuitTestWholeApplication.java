@@ -12,5 +12,5 @@ import org.junit.runners.Suite;
 	   TestUserMethods.class ,TestForumMethods.class
 	})
 public class SuitTestWholeApplication {
-	//tests all classes
+	
 }
